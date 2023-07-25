@@ -1,0 +1,2 @@
+# kurva
+ index.html
